@@ -6,7 +6,7 @@ This project demonstrates embedded programming, IoT communication, image process
 Motion Detection using PIR sensor  
 Face Detection using ESP32-CAM built-in AI model  
 Capture JPEG images when motion/face is detected  
-Encode images to Base64 & upload to **Blynk Cloud** via HTTP API  
+Encode images to Base64 & upload to Blynk Cloud via HTTP API  
 View snapshots directly in the Blynk mobile app (Image Widget)  
 Log detection events with real-time timestamps  
 Remotely enable/disable image capturing and adjust PIR sensitivity 
